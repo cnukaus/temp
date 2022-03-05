@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "ethereum-ens": "^0.8.0",
     "json2csv": "^4.5.4",
     "minimist": "^1.2.0",
     "web3": "^1.2.4"
